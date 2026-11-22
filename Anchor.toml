@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.devnet]
-equxi = "D7akK6aUVdYWfSwRDtuKFExZQkqtWZ1EFrRz1LQdfvhc"
+equxi = "dkQ8tFAxoGbV28hCddGDU1juoKgzmCaqrsueUN3KnMG"
 
 [registry]
 url = "https://api.apr.dev"

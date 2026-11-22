@@ -7,7 +7,7 @@ pub mod error;
 use instructions::*;
 use state::*;
 
-declare_id!("D7akK6aUVdYWfSwRDtuKFExZQkqtWZ1EFrRz1LQdfvhc");
+declare_id!("dkQ8tFAxoGbV28hCddGDU1juoKgzmCaqrsueUN3KnMG");
 
 #[program]
 pub mod equxi {
